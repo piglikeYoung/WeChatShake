@@ -13,6 +13,20 @@
 		7D2A99A71BFAC03E001BFFFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99A51BFAC03E001BFFFD /* Main.storyboard */; };
 		7D2A99A91BFAC03E001BFFFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99A81BFAC03E001BFFFD /* Assets.xcassets */; };
 		7D2A99AC1BFAC03E001BFFFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99AA1BFAC03E001BFFFD /* LaunchScreen.storyboard */; };
+		7D2A99C11BFAC25F001BFFFD /* Shake_icon_music@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99B41BFAC25F001BFFFD /* Shake_icon_music@2x.png */; };
+		7D2A99C21BFAC25F001BFFFD /* Shake_icon_musicHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99B51BFAC25F001BFFFD /* Shake_icon_musicHL@2x.png */; };
+		7D2A99C31BFAC25F001BFFFD /* Shake_icon_people@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99B61BFAC25F001BFFFD /* Shake_icon_people@2x.png */; };
+		7D2A99C41BFAC25F001BFFFD /* Shake_icon_peopleHL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99B71BFAC25F001BFFFD /* Shake_icon_peopleHL@2x.png */; };
+		7D2A99C51BFAC25F001BFFFD /* Shake_Line_Down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99B81BFAC25F001BFFFD /* Shake_Line_Down@2x.png */; };
+		7D2A99C61BFAC25F001BFFFD /* Shake_Line_Up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99B91BFAC25F001BFFFD /* Shake_Line_Up@2x.png */; };
+		7D2A99C71BFAC25F001BFFFD /* Shake_Logo_Down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99BA1BFAC25F001BFFFD /* Shake_Logo_Down@2x.png */; };
+		7D2A99C81BFAC25F001BFFFD /* Shake_Logo_Female_Down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99BB1BFAC25F001BFFFD /* Shake_Logo_Female_Down@2x.png */; };
+		7D2A99C91BFAC25F001BFFFD /* Shake_Logo_Female_Up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99BC1BFAC25F001BFFFD /* Shake_Logo_Female_Up@2x.png */; };
+		7D2A99CA1BFAC25F001BFFFD /* Shake_Logo_Up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99BD1BFAC25F001BFFFD /* Shake_Logo_Up@2x.png */; };
+		7D2A99CB1BFAC25F001BFFFD /* shake_match.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99BE1BFAC25F001BFFFD /* shake_match.wav */; };
+		7D2A99CC1BFAC25F001BFFFD /* shake_nomatch.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99BF1BFAC25F001BFFFD /* shake_nomatch.wav */; };
+		7D2A99CD1BFAC25F001BFFFD /* shake_sound_male.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99C01BFAC25F001BFFFD /* shake_sound_male.wav */; };
+		7D2A99CF1BFAC67D001BFFFD /* AlbumHeaderBackgrounImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7D2A99CE1BFAC67D001BFFFD /* AlbumHeaderBackgrounImage@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +40,20 @@
 		7D2A99A81BFAC03E001BFFFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D2A99AB1BFAC03E001BFFFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D2A99AD1BFAC03E001BFFFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D2A99B41BFAC25F001BFFFD /* Shake_icon_music@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_icon_music@2x.png"; sourceTree = "<group>"; };
+		7D2A99B51BFAC25F001BFFFD /* Shake_icon_musicHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_icon_musicHL@2x.png"; sourceTree = "<group>"; };
+		7D2A99B61BFAC25F001BFFFD /* Shake_icon_people@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_icon_people@2x.png"; sourceTree = "<group>"; };
+		7D2A99B71BFAC25F001BFFFD /* Shake_icon_peopleHL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_icon_peopleHL@2x.png"; sourceTree = "<group>"; };
+		7D2A99B81BFAC25F001BFFFD /* Shake_Line_Down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_Line_Down@2x.png"; sourceTree = "<group>"; };
+		7D2A99B91BFAC25F001BFFFD /* Shake_Line_Up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_Line_Up@2x.png"; sourceTree = "<group>"; };
+		7D2A99BA1BFAC25F001BFFFD /* Shake_Logo_Down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_Logo_Down@2x.png"; sourceTree = "<group>"; };
+		7D2A99BB1BFAC25F001BFFFD /* Shake_Logo_Female_Down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_Logo_Female_Down@2x.png"; sourceTree = "<group>"; };
+		7D2A99BC1BFAC25F001BFFFD /* Shake_Logo_Female_Up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_Logo_Female_Up@2x.png"; sourceTree = "<group>"; };
+		7D2A99BD1BFAC25F001BFFFD /* Shake_Logo_Up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shake_Logo_Up@2x.png"; sourceTree = "<group>"; };
+		7D2A99BE1BFAC25F001BFFFD /* shake_match.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = shake_match.wav; sourceTree = "<group>"; };
+		7D2A99BF1BFAC25F001BFFFD /* shake_nomatch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = shake_nomatch.wav; sourceTree = "<group>"; };
+		7D2A99C01BFAC25F001BFFFD /* shake_sound_male.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = shake_sound_male.wav; sourceTree = "<group>"; };
+		7D2A99CE1BFAC67D001BFFFD /* AlbumHeaderBackgrounImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AlbumHeaderBackgrounImage@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +91,7 @@
 				7D2A99A21BFAC03E001BFFFD /* ViewController.h */,
 				7D2A99A31BFAC03E001BFFFD /* ViewController.m */,
 				7D2A99A51BFAC03E001BFFFD /* Main.storyboard */,
+				7D2A99B31BFAC25F001BFFFD /* ShakeImages */,
 				7D2A99A81BFAC03E001BFFFD /* Assets.xcassets */,
 				7D2A99AA1BFAC03E001BFFFD /* LaunchScreen.storyboard */,
 				7D2A99AD1BFAC03E001BFFFD /* Info.plist */,
@@ -77,6 +106,27 @@
 				7D2A999D1BFAC03E001BFFFD /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7D2A99B31BFAC25F001BFFFD /* ShakeImages */ = {
+			isa = PBXGroup;
+			children = (
+				7D2A99CE1BFAC67D001BFFFD /* AlbumHeaderBackgrounImage@2x.png */,
+				7D2A99B41BFAC25F001BFFFD /* Shake_icon_music@2x.png */,
+				7D2A99B51BFAC25F001BFFFD /* Shake_icon_musicHL@2x.png */,
+				7D2A99B61BFAC25F001BFFFD /* Shake_icon_people@2x.png */,
+				7D2A99B71BFAC25F001BFFFD /* Shake_icon_peopleHL@2x.png */,
+				7D2A99B81BFAC25F001BFFFD /* Shake_Line_Down@2x.png */,
+				7D2A99B91BFAC25F001BFFFD /* Shake_Line_Up@2x.png */,
+				7D2A99BA1BFAC25F001BFFFD /* Shake_Logo_Down@2x.png */,
+				7D2A99BB1BFAC25F001BFFFD /* Shake_Logo_Female_Down@2x.png */,
+				7D2A99BC1BFAC25F001BFFFD /* Shake_Logo_Female_Up@2x.png */,
+				7D2A99BD1BFAC25F001BFFFD /* Shake_Logo_Up@2x.png */,
+				7D2A99BE1BFAC25F001BFFFD /* shake_match.wav */,
+				7D2A99BF1BFAC25F001BFFFD /* shake_nomatch.wav */,
+				7D2A99C01BFAC25F001BFFFD /* shake_sound_male.wav */,
+			);
+			path = ShakeImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +186,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D2A99C11BFAC25F001BFFFD /* Shake_icon_music@2x.png in Resources */,
+				7D2A99CB1BFAC25F001BFFFD /* shake_match.wav in Resources */,
+				7D2A99CD1BFAC25F001BFFFD /* shake_sound_male.wav in Resources */,
+				7D2A99CA1BFAC25F001BFFFD /* Shake_Logo_Up@2x.png in Resources */,
+				7D2A99C91BFAC25F001BFFFD /* Shake_Logo_Female_Up@2x.png in Resources */,
+				7D2A99C31BFAC25F001BFFFD /* Shake_icon_people@2x.png in Resources */,
+				7D2A99C21BFAC25F001BFFFD /* Shake_icon_musicHL@2x.png in Resources */,
+				7D2A99C61BFAC25F001BFFFD /* Shake_Line_Up@2x.png in Resources */,
 				7D2A99AC1BFAC03E001BFFFD /* LaunchScreen.storyboard in Resources */,
 				7D2A99A91BFAC03E001BFFFD /* Assets.xcassets in Resources */,
+				7D2A99C71BFAC25F001BFFFD /* Shake_Logo_Down@2x.png in Resources */,
+				7D2A99CF1BFAC67D001BFFFD /* AlbumHeaderBackgrounImage@2x.png in Resources */,
+				7D2A99CC1BFAC25F001BFFFD /* shake_nomatch.wav in Resources */,
+				7D2A99C51BFAC25F001BFFFD /* Shake_Line_Down@2x.png in Resources */,
 				7D2A99A71BFAC03E001BFFFD /* Main.storyboard in Resources */,
+				7D2A99C81BFAC25F001BFFFD /* Shake_Logo_Female_Down@2x.png in Resources */,
+				7D2A99C41BFAC25F001BFFFD /* Shake_icon_peopleHL@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
